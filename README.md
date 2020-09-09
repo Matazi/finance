@@ -1,1 +1,1 @@
-# finance
+# Stock Trading Simulator
